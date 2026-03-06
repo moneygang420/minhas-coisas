@@ -1,1 +1,1 @@
-use the same spotifyfavicon.icon file in lines 8 and 12
+use the same spotifyfavicon.icon file in lines 8 and 12 MEU PAU TÁ DURO
